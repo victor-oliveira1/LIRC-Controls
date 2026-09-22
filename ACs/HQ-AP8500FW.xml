@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<irplus>
+    <device name="Ar Condicionado" vendor="Generic" ir_protocol="NEC" sub_device="0">
+        <command name="Power" code="0x00FF02FD" />
+        <command name="Temp -" code="0x00FF07F8" />
+        <command name="Temp +" code="0x00FF06F9" />
+        <command name="Mode" code="0x00FF09F6" />
+        <command name="Mode B" code="0x00FF11EE" />
+        <command name="Speed" code="0x00FF03FC" />
+        <command name="Timer" code="0x00FF0FF0" />
+    </device>
+</irplus>
