@@ -1,0 +1,22 @@
+<irplus>
+ <device manufacturer="Roadstar" model="RS2751BR" format="WINLIRC_NEC1">
+  <button label="Power">0X00FFA25D</button>
+  <button label="Mode">0X00FF629D</button>
+  <button label="Mute">0X00FFE21D</button>
+  <button label="Band">0X00FF22DD</button>
+  <button label="Vol+">0X00FF02FD</button>
+  <button label="AMS">0X00FFC23D</button>
+  <button label="Prev">0X00FFE01F</button>
+  <button label="Sel">0X00FFA857</button>
+  <button label="Next">0X00FF906F</button>
+  <button label="EQ">0X00FF6897</button>
+  <button label="Vol-">0X00FF9867</button>
+  <button label="DISP">0X00FFB04F</button>
+  <button label="1/Play">0X00FF30CF</button>
+  <button label="2/INT">0X00FF18E7</button>
+  <button label="3/RPT">0X00FF7A85</button>
+  <button label="4/RDM">0X00FF10EF</button>
+  <button label="5/DIR-">0X00FF38C7</button>
+  <button label="6/DIR+">0X00FF5AA5</button>
+ </device>
+</irplus>
